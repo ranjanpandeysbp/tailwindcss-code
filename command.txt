@@ -1,2 +1,3 @@
 npx tailwindcss -i ./src/input.css -o ./output/output.css --watch
 
+https://medium.com/@harutyunabgaryann/mastering-responsive-design-with-tailwind-css-essential-tips-and-tricks-5128da2b5df9
